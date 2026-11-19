@@ -1,17 +1,19 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,45:123B5D,100:0EA5E9&text=BRUNO%20GOMES&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20BACKEND%20%26%20APIs&descSize=15&descAlignY=60" width="100%" alt="Bruno Gomes - Desenvolvimento de Software"/>
+# Bruno Gomes
+
+### Desenvolvedor em formação | Backend & APIs
+
+Estudante de Análise e Desenvolvimento de Sistemas — UNISENAI
 
 <br>
 
 <a href="https://github.com/BrunoGomes-dev285">
-  <img src="https://img.shields.io/badge/GitHub-BrunoGomes--dev285-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-BrunoGomes--dev285-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/bruno-gomes-santana-8159a9356/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<img src="https://img.shields.io/badge/UNISENAI-Análise%20e%20Desenvolvimento%20de%20Sistemas-0066CC?style=for-the-badge" />
 
 </div>
 
@@ -93,7 +95,9 @@ Painel de monitoramento voltado à observabilidade de frotas e telemetria, com i
 
 **Tecnologias:** React, TypeScript, Tailwind CSS, Express, SQLite e Recharts.
 
-[![Repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github)](https://github.com/BrunoGomes-dev285/Projeto-Front-End)
+<a href="https://github.com/BrunoGomes-dev285/Projeto-Front-End">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ### SENAI FastAPI — Cloud e CI/CD
 
@@ -109,7 +113,9 @@ Projeto acadêmico envolvendo a construção de uma API com FastAPI e a automaç
 
 **Tecnologias:** Python, FastAPI, Pytest, Docker, GitHub Actions e AWS EC2.
 
-[![Repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github)](https://github.com/BrunoGomes-dev285/senai_fastapi)
+<a href="https://github.com/BrunoGomes-dev285/senai_fastapi">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ### Finance Manager
 
@@ -124,7 +130,9 @@ Aplicação desktop desenvolvida em Python para gerenciamento financeiro, com te
 
 **Tecnologias:** Python, Tkinter, SQLite, Pandas, Matplotlib e Pillow.
 
-[![Repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github)](https://github.com/BrunoGomes-dev285/Finance-Manager-)
+<a href="https://github.com/BrunoGomes-dev285/Finance-Manager-">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ### HEMEC — Sistema de Manutenção Hospitalar
 
@@ -145,49 +153,4 @@ Projeto acadêmico em desenvolvimento, voltado à criação de um backend para g
 
 ## Atualmente estudando
 
-Estou direcionando meus estudos para fortalecer minha base como desenvolvedor, especialmente em:
-
-- Java e programação orientada a objetos.
-- Spring Boot e desenvolvimento de APIs REST.
-- Persistência de dados com Spring Data JPA.
-- Modelagem de bancos de dados relacionais e SQL.
-- Testes e organização de aplicações backend.
-- Docker, CI/CD e fundamentos de computação em nuvem.
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunoGomes-dev285&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGomes-dev285&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=BrunoGomes-dev285&theme=transparent&hide_border=true" alt="Sequência de contribuições"/>
-
-</div>
-
----
-
-## Contato
-
-<div align="center">
-
-<a href="https://github.com/BrunoGomes-dev285">
-  <img src="https://img.shields.io/badge/GitHub-BrunoGomes--dev285-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bruno-gomes-santana-8159a9356/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-### Sempre aprendendo. Sempre construindo.
-
-**Um projeto de cada vez, uma linha de código de cada vez.**
-
-</div>
+Estou direcionando meus estudos para
