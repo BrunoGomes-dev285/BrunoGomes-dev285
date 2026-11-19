@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-# Bruno Gomes
+<h1>BRUNO <code>GOMES</code></h1>
 
 ### Desenvolvedor em formação | Backend & APIs
 
@@ -16,6 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas — UNISENAI
 </a>
 
 </div>
+
 
 ---
 
