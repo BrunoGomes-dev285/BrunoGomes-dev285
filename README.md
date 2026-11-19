@@ -1,10 +1,13 @@
+
 <div align="center">
 
-<h1>BRUNO <code>GOMES</code></h1>
+<h1 align="center">BRUNO GOMES</h1>
 
-### Desenvolvedor em formação | Backend & APIs
-
-Estudante de Análise e Desenvolvimento de Sistemas — UNISENAI
+<p>
+  <strong>Desenvolvedor em formação | Backend & APIs</strong>
+  <br>
+  Análise e Desenvolvimento de Sistemas — UNISENAI
+</p>
 
 <br>
 
@@ -16,7 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas — UNISENAI
 </a>
 
 </div>
-
 
 ---
 
@@ -35,7 +37,7 @@ Atualmente, meus principais focos são:
 - Modelagem e gerenciamento de bancos de dados relacionais.
 - Desenvolvimento de aplicações com Python.
 - Aprimoramento de lógica de programação e orientação a objetos.
-- Práticas de versionamento, containers e computação em nuvem.
+- Versionamento de código, containers e computação em nuvem.
 
 ---
 
@@ -68,7 +70,6 @@ Tecnologias com as quais tenho estudado e desenvolvido projetos acadêmicos e pe
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2-1E90FF?style=for-the-badge&logoColor=white"/>
 </p>
@@ -93,6 +94,12 @@ Tecnologias com as quais tenho estudado e desenvolvido projetos acadêmicos e pe
 ### NOC Global Mission Control
 
 Painel de monitoramento voltado à observabilidade de frotas e telemetria, com indicadores de conectividade, alertas, status de veículos e visualização de dados.
+
+**Principais recursos:**
+- Monitoramento de conectividade.
+- Indicadores de status dos veículos.
+- Visualização de dados de telemetria.
+- Registro e acompanhamento de alertas.
 
 **Tecnologias:** React, TypeScript, Tailwind CSS, Express, SQLite e Recharts.
 
@@ -146,7 +153,7 @@ Projeto acadêmico em desenvolvimento, voltado à criação de um backend para g
 - Estruturação dos processos de manutenção.
 - Integração com banco de dados relacional.
 
-**Tecnologias:** Java, Spring Boot, Spring Data JPA e MySQL/MariaDB.
+**Tecnologias:** Java, Spring Boot, Spring Data JPA e MySQL.
 
 <sub>Status: Em desenvolvimento.</sub>
 
@@ -154,4 +161,49 @@ Projeto acadêmico em desenvolvimento, voltado à criação de um backend para g
 
 ## Atualmente estudando
 
-Estou direcionando meus estudos para
+Estou direcionando meus estudos para fortalecer minha base como desenvolvedor, especialmente em:
+
+- Java e programação orientada a objetos.
+- Spring Boot e desenvolvimento de APIs REST.
+- Persistência de dados com Spring Data JPA.
+- Modelagem de bancos de dados relacionais e SQL.
+- Testes e organização de aplicações backend.
+- Docker, CI/CD e fundamentos de computação em nuvem.
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunoGomes-dev285&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGomes-dev285&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=BrunoGomes-dev285&theme=transparent&hide_border=true" alt="Sequência de contribuições"/>
+
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://github.com/BrunoGomes-dev285">
+  <img src="https://img.shields.io/badge/GitHub-BrunoGomes--dev285-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bruno-gomes-santana-8159a9356/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+### Sempre aprendendo. Sempre construindo.
+
+**Um projeto de cada vez, uma linha de código de cada vez.**
+
+</div>
