@@ -1,304 +1,193 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:001f2b,100:0066ff&text=BRUNO%20GOMES&fontSize=52&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20SYSTEM%20ONLINE&descSize=17&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,45:123B5D,100:0EA5E9&text=BRUNO%20GOMES&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20BACKEND%20%26%20APIs&descSize=15&descAlignY=60" width="100%" alt="Bruno Gomes - Desenvolvimento de Software"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+BRUNO.EXE...;%3E+SYSTEM+ONLINE;%3E+ACCESS+GRANTED;%3E+LOADING+DEVELOPER+PROFILE...;%3E+JAVA+%7C+PYTHON+%7C+WEB+%7C+DATABASES;%3E+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME." alt="Typing animation"/>
+<a href="https://github.com/BrunoGomes-dev285">
+  <img src="https://img.shields.io/badge/GitHub-BrunoGomes--dev285-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/bruno-gomes-santana-8159a9356/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-0066FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-111111?style=for-the-badge&logo=googlemaps&logoColor=00F0FF"/>
-
-</div>
-
----
-
-## `> WHO_AM_I`
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  DEVELOPER PROFILE                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  NAME       :: Bruno Gomes                               ║
-║  ROLE       :: Software Developer                        ║
-║  STATUS     :: Learning / Building / Improving           ║
-║  SYSTEM     :: GitHub                                    ║
-║                                                          ║
-║  FOCUS                                                    ║
-║  ├── Software Development                                ║
-║  ├── Backend & APIs                                      ║
-║  ├── Web Development                                     ║
-║  ├── Databases                                           ║
-║  └── Object-Oriented Programming                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### `> ABOUT`
-
-Olá! Eu sou **Bruno Gomes**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação.
-
-Tenho interesse em desenvolvimento de software, backend, aplicações web, bancos de dados e programação orientada a objetos.
-
-Gosto de aprender colocando a mão no código e transformando ideias em projetos reais.
-
-Atualmente estou focado em evoluir minha base de programação, desenvolver projetos cada vez mais completos e explorar novas tecnologias.
-
----
-
-## `> TECH_STACK`
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css" />
-
-<br><br>
-
-### `DATABASES`
-
-<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
-
-<br><br>
-
-### `BACKEND & FRAMEWORKS`
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs" />
-
-<br><br>
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman" />
+<img src="https://img.shields.io/badge/UNISENAI-Análise%20e%20Desenvolvimento%20de%20Sistemas-0066CC?style=for-the-badge" />
 
 </div>
 
 ---
 
-## `> SYSTEM_MODULES`
+## Sobre mim
 
-<table align="center">
-<tr>
+Olá! Sou **Bruno Gomes**, estudante de **Análise e Desenvolvimento de Sistemas no UNISENAI** e desenvolvedor em formação.
 
-<td width="33%" align="center">
+Tenho interesse em desenvolvimento de software, principalmente na área de **backend**, construção de APIs, bancos de dados e arquitetura de aplicações.
 
-### `JAVA`
+Gosto de aprender na prática, desenvolvendo projetos que me permitem transformar conceitos em soluções funcionais e aprimorar minhas habilidades técnicas.
 
-☕
-**Object-Oriented Programming**
+Atualmente, meus principais focos são:
 
-Classes • Objects • Inheritance
-Encapsulation • Interfaces
-
-</td>
-
-<td width="33%" align="center">
-
-### `PYTHON`
-
-🐍
-**Backend & Logic**
-
-APIs • Automation
-Data Processing • Flask
-
-</td>
-
-<td width="33%" align="center">
-
-### `DATABASE`
-
-🗄️
-**Data Management**
-
-MySQL • MariaDB
-SQL • CRUD • Relationships
-
-</td>
-
-</tr>
-</table>
+- Desenvolvimento backend com Java e Spring Boot.
+- Construção e integração de APIs REST.
+- Modelagem e gerenciamento de bancos de dados relacionais.
+- Desenvolvimento de aplicações com Python.
+- Aprimoramento de lógica de programação e orientação a objetos.
+- Práticas de versionamento, containers e computação em nuvem.
 
 ---
 
-## `> PROJECTS_DATABASE`
+## Tecnologias e ferramentas
 
-### ⚡ SHIFTCONTROL
+Tecnologias com as quais tenho estudado e desenvolvido projetos acadêmicos e pessoais.
 
-> Sistema web para gerenciamento de turnos, escalas, registros de ponto e banco de horas.
+### Linguagens
 
-```text
-[ STATUS ]     DEVELOPMENT
-[ BACKEND ]    Python + Flask
-[ DATABASE ]   MySQL / MariaDB
-[ FRONTEND ]   HTML + CSS + JavaScript
-[ DESIGN ]     Figma
-```
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Backend e frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+### Bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-1E90FF?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Ferramentas e ambiente
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## Projetos em destaque
+
+### NOC Global Mission Control
+
+Painel de monitoramento voltado à observabilidade de frotas e telemetria, com indicadores de conectividade, alertas, status de veículos e visualização de dados.
+
+**Tecnologias:** React, TypeScript, Tailwind CSS, Express, SQLite e Recharts.
+
+[![Repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github)](https://github.com/BrunoGomes-dev285/Projeto-Front-End)
+
+### SENAI FastAPI — Cloud e CI/CD
+
+Projeto acadêmico envolvendo a construção de uma API com FastAPI e a automação do fluxo de integração e entrega contínua.
 
 **Principais recursos:**
+- Desenvolvimento de endpoints REST.
+- Testes automatizados com Pytest.
+- Containerização com Docker.
+- Pipeline de CI/CD com GitHub Actions.
+- Publicação de imagens no Docker Hub.
+- Deploy em instância EC2 da AWS.
 
-* Controle de turnos
-* Escalas de funcionários
-* Registro de ponto
-* Banco de horas
-* Justificativas
-* Dashboards e indicadores
-* Sistema de usuários e permissões
+**Tecnologias:** Python, FastAPI, Pytest, Docker, GitHub Actions e AWS EC2.
 
-<div align="left">
+[![Repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github)](https://github.com/BrunoGomes-dev285/senai_fastapi)
 
-<img src="https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-0066FF?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=yellow"/>
+### Finance Manager
 
-</div>
+Aplicação desktop desenvolvida em Python para gerenciamento financeiro, com telas de acesso, cadastro, painel principal e controle de contas.
+
+**Principais recursos:**
+- Cadastro e organização de informações.
+- Controle de contas a pagar.
+- Organização por categorias e status.
+- Dashboard para visualização dos dados.
+- Gráficos para acompanhamento financeiro.
+
+**Tecnologias:** Python, Tkinter, SQLite, Pandas, Matplotlib e Pillow.
+
+[![Repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github)](https://github.com/BrunoGomes-dev285/Finance-Manager-)
+
+### HEMEC — Sistema de Manutenção Hospitalar
+
+Projeto acadêmico em desenvolvimento, voltado à criação de um backend para gerenciamento de equipamentos e processos de manutenção hospitalar.
+
+**Objetivos principais:**
+- Gerenciamento de equipamentos hospitalares.
+- Abertura e acompanhamento de chamados.
+- Organização de ordens de serviço.
+- Estruturação dos processos de manutenção.
+- Integração com banco de dados relacional.
+
+**Tecnologias:** Java, Spring Boot, Spring Data JPA e MySQL/MariaDB.
+
+<sub>Status: Em desenvolvimento.</sub>
+
+---
+
+## Atualmente estudando
+
+Estou direcionando meus estudos para fortalecer minha base como desenvolvedor, especialmente em:
+
+- Java e programação orientada a objetos.
+- Spring Boot e desenvolvimento de APIs REST.
+- Persistência de dados com Spring Data JPA.
+- Modelagem de bancos de dados relacionais e SQL.
+- Testes e organização de aplicações backend.
+- Docker, CI/CD e fundamentos de computação em nuvem.
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunoGomes-dev285&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGomes-dev285&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas"/>
 
 <br>
 
-### 🏥 HEALTHTECH
-
-> Projeto voltado à digitalização e organização dos processos de uma clínica.
-
-```text
-[ PROBLEM ]    Agenda / Prontuários / Organização
-[ OBJECTIVE ]  Digitalização dos processos
-[ DOMAIN ]     Healthcare Technology
-[ STATUS ]     ACADEMIC PROJECT
-```
-
-**Principais pontos:**
-
-* Gerenciamento de agenda
-* Organização de prontuários
-* Levantamento de requisitos
-* Modelagem de sistema
-* Diagramas UML
-* Análise de processos
-
----
-
-## `> CURRENT_MISSION`
-
-```bash
-bruno@github:~$ ./mission.sh
-
-[████████████████████████████████] SYSTEM INITIALIZED
-
-> Improving Java...................... [████████████████░░░░] 80%
-> Learning Python..................... [██████████████░░░░░░] 70%
-> Web Development..................... [███████████████░░░░░] 75%
-> Databases........................... [██████████████░░░░░░] 70%
-> Software Architecture............... [██████████░░░░░░░░░░] 50%
-> Git & GitHub........................ [████████████████░░░░] 80%
-
-MISSION OBJECTIVES:
-
-[✓] Build real projects
-[✓] Improve programming fundamentals
-[✓] Learn Object-Oriented Programming
-[✓] Work with databases
-[ ] Expand backend knowledge
-[ ] Learn new frameworks
-[ ] Deploy more projects
-[ ] Contribute to open source
-
-STATUS: CONSTANTLY EVOLVING
-```
-
----
-
-## `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BrunoGomes-dev285&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=0066FF&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGomes-dev285&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BrunoGomes-dev285&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=0066FF&currStreakLabel=00F0FF"/>
+<img src="https://streak-stats.demolab.com?user=BrunoGomes-dev285&theme=transparent&hide_border=true" alt="Sequência de contribuições"/>
 
 </div>
 
 ---
 
-## `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoGomes-dev285&bg_color=0D1117&color=00F0FF&line=0066FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BrunoGomes-dev285&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BrunoGomes-dev285/BrunoGomes-dev285/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## `> CONNECT`
+## Contato
 
 <div align="center">
 
 <a href="https://github.com/BrunoGomes-dev285">
-
-<img src="https://img.shields.io/badge/GitHub-BrunoGomes--dev285-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-
+  <img src="https://img.shields.io/badge/GitHub-BrunoGomes--dev285-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/bruno-gomes-santana-8159a9356/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<br><br>
 
-<div align="center">
+### Sempre aprendendo. Sempre construindo.
 
-<img src="https://komarev.com/ghpvc/?username=BrunoGomes-dev285&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║              SYSTEM STATUS :: OPERATIONAL                 ║
-║                                                            ║
-║       "The future is built one line at a time."            ║
-║                                                            ║
-║                    BRUNO GOMES                             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:00F0FF,100:050505&height=120&section=footer" width="100%"/>
+**Um projeto de cada vez, uma linha de código de cada vez.**
 
 </div>
